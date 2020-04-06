@@ -37,13 +37,18 @@
     "@spartacus/core": "^1.4.0",
     "@spartacus/storefront": "^1.4.0",
     "@spartacus/styles": "^1.4.0",
+    "angulartics2": "^8.3.0",
     "bootstrap": "^4.3.1",
     "core-js": "^3.2.1",
+    "express": "^4.17.1",
     "i18next": "^17.0.13",
     "i18next-xhr-backend": "^3.1.2",
+    "jquery": "^3.4.1",
     "ngx-infinite-scroll": "^8.0.1",
+    "popper.js": "^1.14.7",
     "rxjs": "~6.5.3",
     "tslib": "^1.9.0",
+    "webpack": "^4.42.1",
     "zone.js": "~0.10.2"
   },
   "devDependencies": {
